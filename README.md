@@ -1,2 +1,2 @@
 # Tenta-inl-mning
-Mondag 20200217
+Måndag 20200217
