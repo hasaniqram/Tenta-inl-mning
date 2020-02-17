@@ -22,6 +22,6 @@ public class TentaArrayList {
 		Collections.sort(list, Collections.reverseOrder());
 
 		// Print the sorted ArrayList 
-		System.out.println("Sorted ArrayList "+ "in Ascending order : "+ list); 
+		System.out.println("Sorted ArrayList "+ "Large to small : "+ list); 
 	} 
 } 
